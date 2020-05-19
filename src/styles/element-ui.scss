@@ -1,0 +1,26 @@
+.el-table th{
+  background: #f5f7fa
+}
+
+.el-dialog{
+  margin-top: 10vh;
+  .el-dialog__body{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+.el-tree{
+  overflow: hidden;
+  .el-tree-node{
+    margin: 5px 8px;;
+  }
+}
+
+.el-card{
+  margin-bottom: 10px;
+  .el-card__header{
+    padding: 10px 10px;
+  }
+}
+

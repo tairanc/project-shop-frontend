@@ -1,0 +1,1 @@
+webpackJsonp([104],{"/zrs":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]},a=r("C7Lr")({data:function(){return this.$router.replace({path:"/views/goods/edit/add",name:"add"}),{}}},n,!1,null,null,null);t.default=a.exports}});
